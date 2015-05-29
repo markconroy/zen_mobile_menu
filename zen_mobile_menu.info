@@ -1,0 +1,7 @@
+name = Zen Mobile Menu
+description = "A very basic mobile menu to work with Zen themes - will probably work with many other themes as well."
+package = Other
+core = 7.x
+
+; Load the script on every page - presuming we want the menu on every page.
+scripts[] = script.js
